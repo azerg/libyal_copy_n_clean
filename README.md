@@ -9,5 +9,6 @@ I'm boring of copying libyal libraries, built with VisualStudio each time new ve
 - compile x86\x64 Release\VSDebug from this script
 
 ###Dependencies
+- [libyal]  - :package: of cool libs
 
 [libyal]:https://github.com/libyal
